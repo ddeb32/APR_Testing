@@ -28,3 +28,7 @@ TOV equation refers to the Tolman-Oppenheimer-Volkov Equation, which is a genera
 See [Suyog Garg and Manjari Bagchi 2019 *Res. Notes AAS* **3** 125](https://doi.org/10.3847/2515-5172/ab3faf) for more details on the project.
 
 [![DOI](https://zenodo.org/badge/197245843.svg)](https://zenodo.org/badge/latestdoi/197245843)
+
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ddeb32/APR_Testing/master)
